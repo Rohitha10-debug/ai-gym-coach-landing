@@ -4,7 +4,7 @@ Modern portfolio landing page for the **AI Gym Coach** project, showcasing appli
 
 ## Live Demo
 
-* Website: https://rohitha-ai-gym-coach.netlify.app
+* Website: https://rohithapanchamukhi-ai-gym-coach.netlify.app/
 * Application: https://ai-gym-coach-4hfaesfhwep93drbgn44g9.streamlit.app/
 
 ## Features
